@@ -1,6 +1,6 @@
 # Exploiting macro- and micro-structural brain changes for improved Parkinson's disease classification from MRI data
 
-Milton Camacho1;2;*, Matthias Wilms2;3;4;5, Hannes Almgren5;6, Kimberly Amador1;2, Richard Camicioli7, Zahinoor Ismail5;6;8;9, Oury Monchi5;6;10;11, Nils D. Forkert2;3;4;5;6
+Milton Camacho1;2, Matthias Wilms2;3;4;5, Hannes Almgren5;6, Kimberly Amador1;2, Richard Camicioli7, Zahinoor Ismail5;6;8;9, Oury Monchi5;6;10;11, Nils D. Forkert2;3;4;5;6
 
 For the Alzheimer’s Disease Neuroimaging Initiative+
 
@@ -55,5 +55,6 @@ Wait for the process to complete. This might take a few minutes depending on the
 ### Step 3: Run job_example.sh
 
 1. To run job.sh, follow these steps:
-
+    ```bash
     bash job_example.sh
+    ```
