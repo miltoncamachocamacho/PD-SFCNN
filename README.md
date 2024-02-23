@@ -54,7 +54,7 @@ Wait for the process to complete. This might take a few minutes depending on the
 
 ### Step 3: Run job_example.sh
 
-1. To run job.sh, follow these steps:
+1. To run job_example.sh, follow these steps:
     ```bash
     bash job_example.sh
     ```
