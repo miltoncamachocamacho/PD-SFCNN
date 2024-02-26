@@ -1,4 +1,5 @@
-# Exploiting macro- and micro-structural brain changes for improved Parkinson's disease classification from MRI data
+# Exploiting macro- and micro-structural brain changes for improved Parkinson's disease classification from MRI data 
+[NPJ Parkinson's Disease](https://www.nature.com/articles/s41531-024-00647-9)
 
 Milton Camacho1;2, Matthias Wilms2;3;4;5, Hannes Almgren5;6, Kimberly Amador1;2, Richard Camicioli7, Zahinoor Ismail5;6;8;9, Oury Monchi5;6;10;11, Nils D. Forkert2;3;4;5;6
 
